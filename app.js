@@ -187,7 +187,7 @@ function scrollTopButton(btn) {
 $(btninicio).click(imprimirCards);
 $(btnImagen).click(imprimirCards);
 $(btnmilista).click(imprimirLista);
-$(btnpelis).click(() => { imprimirContenido("Película") });
+$(btnpelis).click(() => { imprimirContenido("Pelicula") });
 $(btnseries).click(() => { imprimirContenido("Serie") });
 $(btnaccion).click(() => { imprimirCategoria("Accion") });
 $(btnanimacion).click(() => { imprimirCategoria("Animacion") });
@@ -403,7 +403,7 @@ function imprimirFormulario() {
                   <label for="email" class="formu">Correo electrónico <span>*</span></label>
                   <input name="email" type="text" id="email" required placeholder="nombre@gmail.com">
                   <label for="message" class="formu">Mensaje</label>
-                  <textarea id="message" name="message" id="" cols="30" rows="10"></textarea>
+                  <textarea id="message" name="message" id="" cols="300" rows="10"></textarea>
                   <button id="botonenviar" type="submit" class="btn primary full">enviar mensaje</button>
                 </form>
                 <a href="mailto:santiago.utn.br@gmail.com" id="idform"></a>

@@ -405,7 +405,7 @@ h1 {
 
 :root {
     --font:'Bebas Neue', sans-serif;
-    --primary: rgba(14,63,169,255);
+    --primary: #ffa903;
     --black: black;
   }
 
@@ -435,7 +435,7 @@ h2 {
     cursor: pointer;
     user-select: none;
     box-sizing: border-box;
-    font-size: 14px;
+    font-size: 18px;
     text-transform: uppercase;
     text-align: center;
     line-height: 50px;
@@ -576,7 +576,7 @@ footer{
 
 .footer-bottom{
     background-color: black;
-    width: 100vw;
+    width: 100%;
     padding: 10px 0;
     text-align: center;
 }

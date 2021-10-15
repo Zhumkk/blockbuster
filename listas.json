@@ -17,7 +17,7 @@
     "categoria":"Drama",
     "director": "David Caffrey", 
     "anio": 2013, 
-    "disponibilidad": false,
+    "disponibilidad": true,
     "trailer": "https://www.youtube.com/watch?v=oVzVdvGIC7U",  
     "imagen":"https://i.ibb.co/TL67JSh/peakyblinders.jpg"
   },
@@ -50,7 +50,7 @@
     "categoria":"Animacion",
     "director": "Brad Bird", 
     "anio": 1999, 
-    "disponibilidad": false,
+    "disponibilidad": true,
     "trailer": "https://www.youtube.com/watch?v=doSJxiYp9yo", 
     "imagen":"https://i.ibb.co/RbsdtML/theiron.jpg" 
   },
@@ -94,7 +94,7 @@
     "categoria":"Comedia",
     "director": "Dennis Dugan", 
     "anio": 2010, 
-    "disponibilidad": false,
+    "disponibilidad": true,
     "trailer": "https://www.youtube.com/watch?v=e01NVCveGkg", 
     "imagen":"https://i.ibb.co/zRKfHSv/grown.jpg" 
   },
@@ -127,7 +127,7 @@
     "categoria":"animacion",
     "director": "Dan Harmon", 
     "anio": 2013, 
-    "disponibilidad": false ,
+    "disponibilidad": true ,
     "trailer": "https://www.youtube.com/watch?v=_uUcMwsR5hg",  
     "imagen":"https://i.ibb.co/k55TJTW/rickamorty.jpg"
   },
@@ -138,7 +138,7 @@
     "categoria":"Biopic",
     "director": "John Lee Hancock", 
     "anio": 2016, 
-    "disponibilidad": false,
+    "disponibilidad": true,
     "trailer": "https://www.youtube.com/watch?v=AX2uz2XYkbo", 
     "imagen":"https://i.ibb.co/yXSmLMr/thefouder.jpg" 
   },
@@ -160,7 +160,7 @@
     "categoria":"Accion",
     "director": "John Badham", 
     "anio": 1990, 
-    "disponibilidad": false,
+    "disponibilidad": true,
     "trailer": "https://www.youtube.com/watch?v=7P6Qq3YCIjA", 
     "imagen":"https://i.ibb.co/nBmLs6W/bird.jpg" 
   },
@@ -182,7 +182,7 @@
     "categoria":"Drama",
     "director": "David Fincher", 
     "anio": 2019, 
-    "disponibilidad": false,
+    "disponibilidad": true,
     "trailer": "https://www.youtube.com/watch?v=GGbXlNTOVHE", 
     "imagen":"https://i.ibb.co/SxSZdRY/1917.jpg" 
   },
@@ -259,7 +259,7 @@
     "categoria":"Drama",
     "director": "Robin Wright", 
     "anio": 2017, 
-    "disponibilidad": false,
+    "disponibilidad": true,
     "trailer": "https://www.youtube.com/watch?v=rQUvbgnzFoY",  
     "imagen":"https://i.ibb.co/8BKydX4/ozark.jpg"
   }
